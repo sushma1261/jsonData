@@ -6,7 +6,7 @@
       "owner": "Sushma",
       "description": "first project",
       "version": 1.0,
-      status: "active"
+      "status": "active"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "owner": "Sushma",
       "description": "second project",
       "version": 1.0,
-      status: "closed"
+      "status": "closed"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "owner": "Sushma",
       "description": "third project",
       "version": 1.0,
-      status: "active"
+      "status" : "active"
     }
     
   ]
