@@ -1,31 +1,4 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "project1",
-      "owner": "Sushma",
-      "description": "first project",
-      "version": 1.0,
-      "status": "active"
-    },
-    {
-      "id": 2,
-      "title": "project2",
-      "owner": "Sushma",
-      "description": "second project",
-      "version": 1.0,
-      "status": "closed"
-    },
-    {
-      "id": 3,
-      "title": "project3",
-      "owner": "Sushma",
-      "description": "third project",
-      "version": 1.0,
-      "status" : "active"
-    }
-    
-  ],
   "posts": [
     {
       "id": 1,
