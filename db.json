@@ -33,5 +33,43 @@
 			"status": "active"
 		}
 
-	]
+	],
+	"prompts": {
+    "WELCOME": {
+      "id": "WELCOME",
+      "promptName": "Welcome",
+      "flippiState": "dormant",
+      "promptDescription": "",
+      "autoListenToggle": false,
+      "pillType": "item 1",
+      "pillCount": 0,
+      "promptVariation": "English",
+      "languages": {
+        "hindi": [
+          "hindi desc for welcome"
+        ],
+        "english": [
+          "english desc for welcome"
+        ]
+      }
+    },
+    "ADD_TO_CART": {
+      "id": "ADD_TO_CART",
+      "promptName": "Add To Cart",
+      "flippiState": "active",
+      "promptDescription": "",
+      "autoListenToggle": true,
+      "pillType": "item 2",
+      "pillCount": 0,
+      "promptVariation": "English",
+      "languages": {
+        "hindi": [
+          "hindi desc for add to cart"
+        ],
+        "english": [
+          "english desc for add to cart"
+        ]
+      }
+    }
+  }
 }
